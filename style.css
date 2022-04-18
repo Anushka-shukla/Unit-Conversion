@@ -1,0 +1,83 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height:100%; */
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 38px;
+    /* identical to box height, or 173% */
+    text-align: center;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0; 
+    color: white;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0; 
+    color: white;
+    padding: 20px;
+}
+
+input {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    background: transparent;
+    border: 1px solid white;
+    
+}
+
+button {
+    border-radius: 15px;
+    background-color: #272d42;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-size: 30px;
+    padding: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+
+}
+
+h5 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+    font-weight: 300;
+    padding: 30px;
+}
+
+.header {
+        background-image: linear-gradient(to bottom left, #2B75EC, #2EC4DE);
+
+}
+
+.body-section {
+              background-color: #272d42;
+               
+}
